@@ -1,5 +1,3 @@
-Berikut README.md lengkap untuk Coffeely yang fokus menjelaskan setup, konsep, dan penggunaan dasar agar mudah dipahami pengembang lain atau AI:
-
 # Coffeely
 
 Coffeely adalah dependencies low-level untuk menghubungkan WhatsApp Web menggunakan protokol asli tanpa QR code, dengan pairing berbasis session key. Dirancang untuk developer yang ingin kendali penuh dalam membuat bot, automasi, atau aplikasi WhatsApp custom.
